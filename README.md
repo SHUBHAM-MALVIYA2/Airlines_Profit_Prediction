@@ -85,4 +85,4 @@ This project successfully developed a *profit prediction model* for the airline 
 
 
 ## [Here is the Explanation vidio of the code](https://drive.google.com/file/d/1v2kbquOMaSwWQvuh-imlvJAJ4FeKUFsL/view?usp=drive_link)
-## we r not able to upload the trained model due to the uplode size ristrictions on github so ve r uploading all remaining dataset files and trained model on drive u can access is [HERE](https://drive.google.com/drive/folders/1ersXZP54o-5GyV1lAyjWyjEkWpAj2Y1q?usp=drive_link)
+## we r not able to upload the trained model due to the uplode size ristrictions on github so ve r uploading all remaining dataset files and trained model on drive u can access the same [HERE](https://drive.google.com/drive/folders/1ersXZP54o-5GyV1lAyjWyjEkWpAj2Y1q?usp=drive_link)
